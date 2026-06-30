@@ -42,7 +42,8 @@ Busco escrever código limpo, escalável e de fácil manutenção, sempre priori
 
 ## 🚧 Projetos atuais
 
-* Dashboard-finalaca
+* dashboard-finalaca
+* dental-alagoas
 
 ---
 
