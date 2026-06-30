@@ -1,30 +1,63 @@
-# Olá, eu sou o Calango (Vinnícius) 👋
+# Olá, eu sou o Vinnícius 👋
 
-### Desenvolvedor Júnior (React/JS)
+## 💻 Desenvolvedor Full Stack | JavaScript | Node.js
 
-Sou um desenvolvedor focado em construir interfaces funcionais, organizadas e intuitivas. Atualmente, dedico meus estudos ao ecossistema **JavaScript**, dominando o **React** para o front-end e explorando as melhores práticas de estilização com **Tailwind CSS**. Meu objetivo é entregar código limpo, performático e focado na melhor experiência para o usuário.
+Sou um desenvolvedor apaixonado por tecnologia e por transformar ideias em aplicações funcionais, intuitivas e bem estruturadas. Atualmente, concentro meus estudos no ecossistema **JavaScript**, construindo aplicações web e APIs utilizando **Node.js**, **Express** e **MySQL**.
 
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js.
-- **Estilização:** Tailwind CSS, Bootstrap.
-- **Versionamento & Ferramentas:** Git, GitHub, VS Code, Figma.
-- **Atualmente estudando:** React.js, JavaScript, APIs REST e Node.Js.
+Busco escrever código limpo, escalável e de fácil manutenção, sempre priorizando boas práticas, performance e uma excelente experiência para o usuário.
 
 ---
 
-### 📈 O que estou construindo agora?
-- 💻 Aprimorando conhecimentos e **Node.Js**.
-- 🛠️ Aprimorando meu conhecimento ao JavaScript
+## 🚀 Tecnologias
+
+### Front-end
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+
+### Back-end
+
+* Node.js
+* Express.js
+* MySQL
+* APIs REST
+
+### Ferramentas
+
+* Git & GitHub
+* VS Code
+* Figma
 
 ---
 
-### 📫 Vamos nos conectar?
+## 📚 Atualmente estudando
 
-Dê uma olhada nos meus projetos ou entre em contato para trocarmos uma ideia sobre tecnologia:
+* Node.js
+* Express
+* MySQL
+* APIs REST
+
+---
+
+## 🚧 Projetos atuais
+
+* Dashboard-finalaca
+
+---
+
+## 📫 Vamos nos conectar?
+
+Fique à vontade para explorar meus projetos ou entrar em contato para conversar sobre tecnologia, desenvolvimento web e novas oportunidades.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cwlangow)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniii_cw)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calangowproducer@gmail.com)
+
+---
+
+### Dev Full Stack
+
+**Node.js • Express • MySQL**
+
+*Code. Coffee. Repeat.* ☕
