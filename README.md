@@ -29,6 +29,7 @@ Busco escrever código limpo, escalável e de fácil manutenção, sempre priori
 - Git & GitHub
 - VS Code
 - Figma
+- n8n
 
 ---
 
