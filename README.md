@@ -23,6 +23,7 @@ Busco escrever código limpo, escalável e de fácil manutenção, sempre priori
 - Express.js
 - MySQL
 - APIs REST
+- Java 17
 
 ### Ferramentas
 
@@ -36,8 +37,7 @@ Busco escrever código limpo, escalável e de fácil manutenção, sempre priori
 ## 📚 Atualmente estudando
 
 - React
-- Node.js
-- Express
+- Java 17
 - MySQL
 - APIs REST
 
@@ -47,6 +47,7 @@ Busco escrever código limpo, escalável e de fácil manutenção, sempre priori
 
 - dashboard-finalaca
 - dental-alagoas
+- bot-achadinhos
 
 ---
 
