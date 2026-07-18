@@ -1,5 +1,6 @@
 # Vinnícius Nascimento
 ### Desenvolvedor Full Stack
+
 - 🌱&nbsp; Aprimorando meus conhecimentos em **React** e **Java**
 - 🤝&nbsp; Disponível para **oportunidades e projetos em equipe**
 - 💻&nbsp; Todos os meus projetos estão disponíveis [__aqui!__](https://github.com/vinniciusnascimento?tab=repositories)
@@ -17,16 +18,14 @@
   <img align="center" alt="GitHub" height="30" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img align="center" alt="n8n" height="30" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
- 
----
- 
-### 🚧 Projetos
- 
-- **[bot-achadinhos](https://github.com/vinniciusnascimento/bot-achadinhos)** — Bot de grupo de promoções (Node.js e n8n)
-  
+
 ---
 
- </p>
+### 🚧 Projetos
+
+- **[bot-achadinhos](https://github.com/vinniciusnascimento/bot-achadinhos)** — Bot de grupo de promoções (Node.js e n8n)
+
+---
 
 <p>
   <img 
@@ -44,3 +43,5 @@
   />
 </p>
 <br clear="left">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b4e,50:4a2c7a,100:6a3fa0&height=100&section=footer" width="100%" />
