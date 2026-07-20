@@ -25,7 +25,7 @@
 
 - **[university-system](https://github.com/vinniciusnascimento/university-system)** — Sistema de gestão universitária (Java 17)
 - **[library-system](https://github.com/vinniciusnascimento/university-system)** — Sistema de biblioteca (Java 17)
-- **[bot-achadinhos](https://github.com/vinniciusnascimento/bot-achadinhos)** — Bot de grupo de promoções (Node.js e n8n)
+- **[bot-achadinhos](https://github.com/vinniciusnascimento/bot-achadinhos)** — Bot de grupo de promoções (Node.js)
 
 ---
 
