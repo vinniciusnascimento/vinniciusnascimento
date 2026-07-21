@@ -47,4 +47,12 @@
 </p>
 <br clear="left">
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinniciusnascimento/vinniciusnascimento/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinniciusnascimento/vinniciusnascimento/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/vinniciusnascimento/vinniciusnascimento/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b4e,50:4a2c7a,100:6a3fa0&height=100&section=footer" width="100%" />
