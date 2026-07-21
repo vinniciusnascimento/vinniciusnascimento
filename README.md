@@ -24,7 +24,7 @@
 ### 🚧 Projetos
 
 - **[university-system](https://github.com/vinniciusnascimento/university-system)** — Sistema de gestão universitária (Java 17)
-- **[library-system](https://github.com/vinniciusnascimento/university-system)** — Sistema de biblioteca (Java 17)
+- **[library-system](https://github.com/vinniciusnascimento/library-system)** — Sistema de biblioteca (Java 17)
 - **[desafio-java-distribuidora](https://github.com/vinniciusnascimento/desafio-java-distribuidora)** — Sistema de gestão de pedidos para uma distribuidora (Java 17)
 - **[bot-achadinhos](https://github.com/vinniciusnascimento/bot-achadinhos)** — Bot de grupo de promoções (Node.js)
 
