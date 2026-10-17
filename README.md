@@ -30,22 +30,6 @@
 - **[porsche-911-gt3rs](https://github.com/vinniciusnascimento/porsche-911-gt3rs)** — Front-end do site da Porsche 911 GT3 RS (React)
 
 ---
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinniciusnascimento&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left"
-    alt="Top Languages"
-    height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinniciusnascimento&layout=compact&custom_title=Linguagens%20mais%20utilizadas:&theme=dark&hide_border=true"
-  />
-</p>
 <br clear="left">
 
 <p align="center">
