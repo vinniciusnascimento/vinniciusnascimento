@@ -1,14 +1,14 @@
 # Vinnícius Nascimento
 ### Desenvolvedor Full Stack
 
-- 🌱&nbsp; Aprimorando meus conhecimentos em **React** e **Java**
+- 🌱&nbsp; Aprimorando meus conhecimentos em **React** e **JavaScript**
 - 🤝&nbsp; Disponível para **oportunidades e projetos em equipe**
 - 💻&nbsp; Todos os meus projetos estão disponíveis [__aqui!__](https://github.com/vinniciusnascimento?tab=repositories)
 - 📫&nbsp; Como me encontrar: **calangowproducer@gmail.com**
 
 <p align="center">
-  <img align="center" alt="Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="JavaScript" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img align="center" alt="Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="Tailwind CSS" height="30" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img align="center" alt="Node.js" height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
