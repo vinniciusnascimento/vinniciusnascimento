@@ -25,6 +25,6 @@
 - **[bot-achadinhos](https://github.com/vinniciusnascimento/bot-achadinhos)** — Bot de grupo de promoções (Node.js)
 - **[site-v3d](https://github.com/vinniciusnascimento/site-v3d)** — Site oficial da V3D (HTML, CSS E JavaScript)
 - **[dashboard-v3d](https://github.com/vinniciusnascimento/v3d-dashboard)** — Painel administrativo da V3D (HTML, CSS, JavaScript, MySQL e Express)
-- **[porsche-911-gt3rs](https://github.com/vinniciusnascimento/porsche-911-gt3rs)** — Front-end do site da Porsche 911 GT3 RS (React)
+- **[calculadora-precos-v3d](https://github.com/vinniciusnascimento/calculadora-precos-v3d)** — Calculadora de preços para impressão 3D desenvolvida para a V3D. (HTML, CSS, JavaScript)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b4e,50:4a2c7a,100:6a3fa0&height=100&section=footer" width="100%" />
