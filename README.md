@@ -8,7 +8,6 @@
 
 <p align="center">
   <img align="center" alt="JavaScript" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img align="center" alt="Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="Tailwind CSS" height="30" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img align="center" alt="Node.js" height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -23,21 +22,9 @@
 
 ### 🚧 Projetos
 
-- **[university-system](https://github.com/vinniciusnascimento/university-system)** — Sistema de gestão universitária (Java 17)
-- **[library-system](https://github.com/vinniciusnascimento/library-system)** — Sistema de biblioteca (Java 17)
-- **[desafio-java-distribuidora](https://github.com/vinniciusnascimento/desafio-java-distribuidora)** — Sistema de gestão de pedidos para uma distribuidora (Java 17)
 - **[bot-achadinhos](https://github.com/vinniciusnascimento/bot-achadinhos)** — Bot de grupo de promoções (Node.js)
+- **[site-v3d](https://github.com/vinniciusnascimento/site-v3d)** — Site oficial da V3D (HTML, CSS E JavaScript)
+- **[dashboard-v3d](https://github.com/vinniciusnascimento/v3d-dashboard)** — Painel administrativo da V3D (HTML, CSS, JavaScript, MySQL e Express)
 - **[porsche-911-gt3rs](https://github.com/vinniciusnascimento/porsche-911-gt3rs)** — Front-end do site da Porsche 911 GT3 RS (React)
-
----
-<br clear="left">
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinniciusnascimento/vinniciusnascimento/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinniciusnascimento/vinniciusnascimento/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/vinniciusnascimento/vinniciusnascimento/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b4e,50:4a2c7a,100:6a3fa0&height=100&section=footer" width="100%" />
